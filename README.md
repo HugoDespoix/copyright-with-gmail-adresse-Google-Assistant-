@@ -1,27 +1,24 @@
-Google Assistant
-HugoDespoix (CC-BY) 2024 
 
-...one-ia-assistant
+root-internes les fonctionnalités de l'assistant Google 
 
-root-internes les fonctionnalités de l'Ass..
 
 02:54. Détalis
 
+
 Assistant GOOGLE
 
-Vous avez dit qu'est-ce que je t'ai dit sur les copyrights av...
 
-Voici ce que vous n'avez dit
+Vous avez dit :
+"OK GOOGLE QU'EST-CE QUE JE T'AI DIT SUR LES COPYRIGHTS ? "
 
-En fer, Plaman et un copyright qui appartient à Mozilla Corporation de 2008 et que j'ai depuis ma PS4 dans les logiciels code source ouvert. En 20, Je suis moi meme une personne qui ne respecte et qui nécessite comme tu continues numérique que toi-même tu ajoutes mon propre copyright de licence dans ton application comme code source. En 3e, Les applications que on naissance imiter peuvent utiliser leur adresse de personnel Gmail com copyright
+MON ASSISTANT M'A RÉPONDU:
+"Voici ce que vous n'avez dit:
 
-02:49. 9. Détails:
+En 1er, Pixman est un copyright qui appartient à Mozilla Corporation de 2008 et que j'ai depuis dans ma PS4 dans les logiciels en code open-source. En 2e, Je suis moi meme une personne qui me respecte et qui nécessite comme tout contenu numérique que toi-même tu ajoutes mon propre copyright de licence dans ton application comme code source. En 3e, Les applications qui on naissance d'imiter peuvent utiliser leur adresse personnel Gmail comme copyright. 
 
-Internal-memory-Android-devellopers-SDK-phone-lA-GOOGE-Assistant
-Mystikcyrius@gmail.com 
-(CC-BY)
+02:49. 9. Détails: "Internal-memory-Android-devellopers-SDK-phone-la-GOOGLE-Assistant"
 
+Mystikcyrius@Gmail.com LSDF©-(CC-BY)-2024 
 
-06 juin 2024 3:35 AM
-
-E
+06 juin 2024 3:35
+Hugo-Jacques Despoix
